@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Eat-N-Splite/static/css/main.f38a3276.css",
+    "main.js": "/Eat-N-Splite/static/js/main.8ab2a606.js",
+    "index.html": "/Eat-N-Splite/index.html",
+    "main.f38a3276.css.map": "/Eat-N-Splite/static/css/main.f38a3276.css.map",
+    "main.8ab2a606.js.map": "/Eat-N-Splite/static/js/main.8ab2a606.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38a3276.css",
+    "static/js/main.8ab2a606.js"
+  ]
+}
